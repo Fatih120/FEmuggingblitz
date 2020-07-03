@@ -18,8 +18,10 @@ In short, please credit anyone you have borrowed works from, for even a simple t
 ## Organization
 
 Mugs are currently stored in a duplicate system, with one directory being mugs that are sorted by appearance of their blitzes (which nine have been done so far), and the other being mugs organized by the creator.
+
 The mugs themselves will be further organized within these folders. Requants or "meme" edits that are not strikingly in FEGBA style will be in a sub-folder while all the other portraits will be in the root folders (this does not apply to the By Creator folder).
-Lastly, mugs are named **Creator**`_`*Name*.png where Creator is the person to identify as the creator of the mug (for crediting purposes) while Name is the preferred name of the character/portrait. The Name is not required to be followed in your works as they are free to be edited into whatever you wish, so they are only there for reference and identification. 
+
+Lastly, mugs are named **Creator**`_`*Name*.png where Creator is the person to identify as the creator of the mug (for crediting purposes) while Name is the preferred name of the character/portrait. There may be multiple creators to credit - these will be seperated by a period for each person. The Name is not required to be followed in your works as they are free to be edited into whatever you wish, so they are only there for reference and identification.
 
 ## Downloading
 
