@@ -22,7 +22,7 @@ The mugs themselves will be further organized within these folders. Requants or 
 
 ## Downloading
 
-Since there are two folders which will have the same exact amount of mugs, there is no reason to clone the entire repository. Simply go to the releases page and choose the download for either By Series or By Creator. After that, hack away.
+Since there are two folders which will have the same exact amount of mugs, there is no reason to clone the entire repository. Simply go to the [releases](https://github.com/Fatih120/FEmuggingblitz/releases/) page and choose the download for either By Series or By Creator. After that, hack away.
 
 ## Additions
 
