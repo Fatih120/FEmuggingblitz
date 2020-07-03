@@ -19,7 +19,7 @@ In short, please credit anyone you have borrowed works from, for even a simple t
 
 Mugs are currently stored in a duplicate system, with one directory being mugs that are sorted by appearance of their blitzes (which nine have been done so far), and the other being mugs organized by the creator.
 
-The mugs themselves will be further organized within these folders. Requants or "meme" edits that are not strikingly in FEGBA style will be in a sub-folder while all the other portraits will be in the root folders (this does not apply to the By Creator folder).
+The mugs themselves will be further organized within these folders. Requants or "meme" edits that are not strikingly in FEGBA style will be in a sub-folder while all the other portraits will be in the root folders (this does not apply to the By Creator folder). For the record, this does not always mean meme in the original sense as there are some good mugs in the style of the SNES games - it's just a catch-all for mugs that are unusual for the FEGBA style.
 
 Lastly, mugs are named **Creator**`_`*Name*.png where Creator is the person to identify as the creator of the mug (for crediting purposes) while Name is the preferred name of the character/portrait. There may be multiple creators to credit - these will be seperated by a period for each person. The Name is not required to be followed in your works as they are free to be edited into whatever you wish, so they are only there for reference and identification.
 
@@ -29,6 +29,6 @@ Since there are two folders which will have the same exact amount of mugs, there
 
 ## Additions
 
-Since this is not much of a code repository as much as it is a gallery, there will be no need for pull requests or the sort - however, this repo will be updated at the end of every Blitz. If you have a mug you wish to add that hasn't been in a Blitz, you can feel free to contact me at Fatih#4806 on Discord and I can work something out for you.
+Since this is not much of a code repository as much as it is a gallery, there will be no need for pull requests or the sort - however, this repo will be updated at the end of every Blitz. If you have a mug you wish to add that hasn't been in a Blitz, you can feel free to contact me at Fatih#4806 on Discord and I can work something out for you. Please contact me if something is wrong here, as well.
 
 Lastly, if you want a purely visual look-and-grab repository, you can visit http://mof.x10.bz/projects/fegba/blitz for a wall of mugs. This will eventually load every single mug in a directory, so this will be a few megabytes large to load.
