@@ -9,25 +9,15 @@ In the event of a containment breach, forum personnel are required to detain SCP
 
 Those who have viewed the portrait for too long or include the portrait in their FE Hack become subject to the delusion that any being or depiction of a being with eyes is staring at them. In extreme cases, subjects report that characters in their hack are making eye contact and are communicating directly to them.
 
-<details>**Trust Level Member is required to view the following file. Viewing without the written permission of the TH Council or Dr. GNRC Pretsel will result in immediate termination.**</details>
+<details>
+<summary>**Trust Level Member is required to view the following file. Viewing without the written permission of the TH Council or Dr. GNRC Pretsel will result in immediate termination.**</summary>
 
 Accessing File…
 
 …
 
-Access Granted. "[REDACTED].png" is available to be viewed.</details>
+Access Granted. "[REDACTED].png" is available to be viewed.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+</details>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 (credit xenith)
